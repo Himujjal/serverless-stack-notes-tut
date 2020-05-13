@@ -54,3 +54,6 @@ env.yml
 # cli tests
 tests/cli.txt
 important-infos
+
+# aws
+.aws
